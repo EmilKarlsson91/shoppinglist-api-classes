@@ -1,3 +1,5 @@
 # shoppinglist-api-classes
 
-# Paket som innehåller gemensamma klasser för Webservice och Klient.
+Paket som innehåller gemensamma klasser för Webservice och Klient.
+
+Kör mvn install.
